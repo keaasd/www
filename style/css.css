@@ -2,9 +2,15 @@
     font-size: 24px;  
     
 }
-.apples :hover {
-    color: Green;  
-    
+
+.apple:hover {
+    color: rgb(218, 2, 2);
+}
+.macbook:hover {
+    color: blue;
+}
+.ipad-mini:hover {
+    color: rgb(15, 63, 0);
 }
 
  
@@ -52,4 +58,9 @@ ul li:hover {
 }
 ul li:nth-child(3) {
     color: DarkBlue;
+} */
+
+/* .apples :hover {
+    color: Green;  
+    
 } */
